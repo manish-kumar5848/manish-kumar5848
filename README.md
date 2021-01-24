@@ -18,8 +18,8 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
 
 
 ## Projects
-AnnAztecs: 
-In this project a farmer web portal has been developed .It have farmer registration ,farmer login feature , farmer data is stored in database .It have form validation and authentication .It have many services for farmer le- seed booking crop cycle information , crop selling ,grievance page etc. This is developed on NodeJS ,ExpressJS,HTML,CSS and MYSQL server as database.
+-**AnnAztecs:**
+ -In this project a farmer web portal has been developed .It have farmer registration ,farmer login feature , farmer data is stored in database .It have form validation and     authentication .It have many services for farmer le- seed booking crop cycle information , crop selling ,grievance page etc. This is developed on NodeJS ,ExpressJS,HTML,CSS and MYSQL server as database.
 ## SocialLinks
 <a href="https://github.com/manish-kumar5848"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/manishk5848/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
   href="https://www.linkedin.com/in/manish-kumar-yadav-25b486176/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
