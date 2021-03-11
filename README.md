@@ -28,7 +28,7 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-kumar5848" alt="manish-kumar5848" /> </p>
  
 ## SocialLinks
-<a href="https://github.com/manish-kumar5848"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/manishk5848/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
+<a href="https://github.com/manish-kumar5848"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/the_unknown_quantity_58/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
   href="https://www.linkedin.com/in/manish-kumar-yadav-25b486176/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
  
 
