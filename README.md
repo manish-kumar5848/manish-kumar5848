@@ -12,7 +12,6 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
  -  HTML
  -  CSS
 
-- I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
 - I am currently looking for internships in Web Development or Software development.
 
 
