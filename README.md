@@ -1,5 +1,5 @@
 ### About 👋 Manish Kumar Yadav
-I am currently a computer science and engineering student in B-Tech 3rd year in Madan Mohan Malaviya University of Technology, Gorakhpur.
+I am currently a computer science and engineering student in B-Tech final year in Madan Mohan Malaviya University of Technology, Gorakhpur.
  
  
  # My Skills
