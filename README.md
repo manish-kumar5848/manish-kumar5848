@@ -13,10 +13,6 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
  -  HTML
  -  CSS
 
-- I am currently looking for internships in Web Development or Software development.
-
-
-
 # Projects
 - **AnnAztecs:**
   - In this project a farmer web portal has been developed .It have farmer registration ,farmer login feature , farmer data is stored in database .It have form validation and     authentication .It have many services for farmer le- seed booking crop cycle information , crop selling ,grievance page etc. This is developed on NodeJS ,ExpressJS,HTML,CSS and MYSQL server as database.
