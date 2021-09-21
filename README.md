@@ -6,6 +6,7 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
  -  Data Structure and Algorithm
  -  Problem Solving
  -  Python
+ -  Java
  -  Cpp
  -  SQL
  -  JavaScript 
