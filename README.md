@@ -15,7 +15,7 @@ I am currently a computer science and engineering student in B-Tech final year i
 
 # Projects
 - **AnnAztecs:**
-  - In this project a farmer web portal has been developed .It have farmer registration ,farmer login feature , farmer data is stored in database .It have form validation and     authentication .It have many services for farmer le- seed booking crop cycle information , crop selling ,grievance page etc. This is developed on NodeJS ,ExpressJS,HTML,CSS and MYSQL server as database.
+  - In this project a farmer web portal had been developed .It have farmer registration ,farmer login feature , farmer data is stored in database .It have form validation and     authentication .It have many services for farmer le- seed booking crop cycle information , crop selling ,grievance page etc. This is developed on NodeJS ,ExpressJS,HTML,CSS and MYSQL server as database.
 - **Campground:**
    - A website made using NodeJS, Express, MongoDB for backend purpose and used CSS, Bootstrap, HTML, Javascript for frontend.
    - The site is basically a camping site where users can add campgrounds. Also authentication and authorisation have been added so that only the owner of the campground or the comments can delete or edit it and it have map functionality too. 
