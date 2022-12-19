@@ -22,7 +22,7 @@ I am currently a computer science and engineering student in B-Tech final year i
 - **ExpenseTracker**
     - It is a web app  developed using React js in which one can add expenses,in this monthly expense of a particular year is  comapared using  chart as well as all expenses of      that year is listed
 <!--
-<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-kumar5848&layout=compact&hide=html&theme=radical" alt="aman2000jaiswal14" />
+<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-kumar5848&layout=compact&hide=html&theme=radical" alt="manish-kumar5848" />
 -->
 [![Manish_Kumar_Yadav github stats](https://github-readme-stats.vercel.app/api?username=manish-kumar5848)](https://github.com/manish-kumar5848/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-kumar5848" alt="manish-kumar5848" /> </p>
